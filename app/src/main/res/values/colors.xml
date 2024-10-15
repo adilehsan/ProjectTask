@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="selected_item_color">#2F76A4</color>
+    <color name="transparent">@android:color/transparent</color>
+    <color name="red">#EF4B5E</color>
+    <color name="divider_color">#F6EFDE</color>
+    <color name="yellow">#FFDE61</color>
+    <color name="green">#097969</color>
+
+
+
+
+
+</resources>
